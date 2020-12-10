@@ -1,3 +1,8 @@
+# Folders
+dataset
+DeepVideoDeblurring_Dataset_Original_High_FPS_Videos
+debug
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
